@@ -1,4 +1,4 @@
-![OAI-Processor](images/Cabecera Github-tools.jpg)
+![OAI-Processor](images/Cab-Github-tools.jpg)
 
 # OAI Toolkit
 
