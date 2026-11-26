@@ -2,7 +2,7 @@
 
 ## Source-Available Non-Commercial License
 
-**Application:** [OAI-DOWNLOADER]  
+**Application:** [OAI-TOOLS]  
 **Copyright © 2026 Corrosion Labs. All rights reserved.**
 
 ### 1. Permissions
